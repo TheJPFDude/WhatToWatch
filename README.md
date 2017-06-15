@@ -35,6 +35,7 @@ calc.py: The program to calculate the “point values” of a show. Point values
 	- n (no) = -3 BP
 - Recommended to me personally?
 	- y (yes) = +5 BP
+	- c (by my long-distance friend) = +2 BP
 	- n (no) = 0 BP
 - Best Girl/Guy Regular in show? (also subjective)
 	- y (yes) = +2 BP

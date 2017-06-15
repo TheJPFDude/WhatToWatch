@@ -64,6 +64,8 @@ rec_vals = []
 for value in shows['rec']:
     if value == 'y':
         rec_vals.append(5)
+    elif value == 'c':
+        rec_vals.append(2)
     else:
         rec_vals.append(0)
 shows['rec_BP'] = rec_vals
