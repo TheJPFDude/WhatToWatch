@@ -45,7 +45,9 @@ calc.py: The program to calculate the “point values” of a show. Point values
 
 criteria.csv: The data file containing all of the data
 
-calculated.cv: A data file with two columns: the show’s name and the point value associated with it adding up all of the factors. A higher point value means higher priority to watch, which is the main goal in all of this.
+calculated.csv: A data file with two columns: the show’s name and the point value associated with it adding up all of the factors. A higher point value means higher priority to watch, which is the main goal in all of this.
+
+stats.py: A program to calculate some stats on the calculated.csv data. Nothing too complicated.
 
 ###Improvements/Future Things to Work On
 
