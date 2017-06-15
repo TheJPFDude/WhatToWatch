@@ -63,7 +63,7 @@ shows['genre_BP'] = genre_vals
 rec_vals = []
 for value in shows['rec']:
     if value == 'y':
-        rec_vals.append(3)
+        rec_vals.append(5)
     else:
         rec_vals.append(0)
 shows['rec_BP'] = rec_vals
