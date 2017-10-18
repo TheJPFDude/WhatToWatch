@@ -47,7 +47,7 @@ criteria.csv: The data file containing all of the data
 
 calculated.csv: A data file with two columns: the show’s name and the point value associated with it adding up all of the factors. A higher point value means higher priority to watch, which is the main goal in all of this.
 
-README.md: The file you're reading right now, dunderhead.
+README.md: The file you're reading right now.
 
 stats.py: A program to calculate some stats on the calculated.csv data. Nothing too complicated.
 
